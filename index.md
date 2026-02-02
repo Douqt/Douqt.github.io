@@ -32,7 +32,7 @@ I am fascinated by the application of computational methods and algorithms to so
 
 ## Contact
 
-**Email:** [pavankumargali@uh.edu](mailto:pavankumargali@uh.edu)  
+**Email:** [galipavan06@gmail.com](mailto:galipavan06@gmail.com)  
 **Location:** Houston, Texas
 
 ---
