@@ -53,7 +53,7 @@ I am an Honors student at the University of Houston, pursuing a degree in Comput
 ## Education
 
 **University of Houston**  
-*Bachelor of Science in Computer Science* (Expected Graduation: 2025)  
+*Bachelor of Science in Computer Science* (Expected Graduation: Spring 2027)  
 - Honors Program Student
 - Minor in Finance and Mathematics (in progress)
 - Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Calculus, Linear Algebra, Statistics
