@@ -28,7 +28,7 @@ I am fascinated by the application of computational methods and algorithms to so
 
 - **[University of Houston Computer Science Department](https://www.cs.uh.edu)**
 - **[LinkedIn Profile](https://www.linkedin.com/in/pavankumar-gali/)**
-- **[Resume (PDF)](/files/Resume.pdf)**
+- **[Resume (PDF)](/Resume.pdf)**
 
 ## Contact
 
